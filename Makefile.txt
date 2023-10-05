@@ -1,0 +1,2 @@
+Bandit:main.c
+	gcc -o Bandit main.c
